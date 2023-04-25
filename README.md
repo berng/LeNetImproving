@@ -1,5 +1,5 @@
 # LeNetImproving
-Variants of LeNet-like architectures with increased accuracy at MNIST dataset
+Variants of LeNet-like architectures with increased accuracy at MNIST dataset by using Absolute activation function and modified ADAM optimizer
 
 Code to the paper: https://arxiv.org/abs/2304.11758
 
