@@ -1,7 +1,7 @@
 # LeNetImproving
 Variants of LeNet-like architectures with increased accuracy at MNIST dataset by using Absolute activation function and modified ADAM optimizer
 
-Code for the paper: https://arxiv.org/abs/2304.11758
+Code for the paper: https://doi.org/10.48550/arXiv.2304.11758
 
 Improving Classification Neural Networks by
 using Absolute activation function (MNIST/LeNET-5 example)
